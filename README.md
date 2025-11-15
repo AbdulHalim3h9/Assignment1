@@ -163,7 +163,7 @@ Then, create a function `printBookDetails` that accepts an object of type `Book`
 ### Requirements:
 
 - You must define the `Book` interface correctly.
-- The `printBookDetails` function must accept an object that conforms to the `Book` interface.
+- The `printBookDetails` function must accept an object that follows to the `Book` interface.
 
 ### Sample Input:
 
@@ -266,7 +266,7 @@ console.log(calculateTotalPrice(products));
   - Do not include comments like “Problem 1” in your code.
   - Do not include any `console.log` in your final code.
 - **Originality:** All work must be original. Plagiarism will result in a **zero**.
-- **Submission:** Submit a single public GitHub repository which will your [solution.ts](./solution.ts) file and the updated `README.md`.
+- **Submission:** Submit a single public GitHub repository which will includes your [solution.ts](./solution.ts) file and the updated `README.md`.
 
 ## 🕒 Assignment Deadlines:
 
