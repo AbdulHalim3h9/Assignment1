@@ -26,5 +26,5 @@ type User = {
 type UserKeys = keyof User;
 
 "name" | "age" | "email"
-
+```
 Key গুলো নিয়ে একটা union হয়ে গেলো
